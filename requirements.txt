@@ -1,5 +1,0 @@
-python-telegram-bot[job-queue]
-python-dotenv
-pytoniq
-pytoniq-core
-filelock
